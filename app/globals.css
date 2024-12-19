@@ -8,7 +8,7 @@ body {
     min-height: 100dvh;
     display: flex;
     flex-direction: column;
-    background-color:rgb(237, 240, 243);
+    background-color:rgb(217, 222, 228);
 }
 
 @layer base {

@@ -18,7 +18,7 @@ async function page({ params }) {
                 <ProductCarousel images={data.images} />
             </div>
             <div className="w-full md:h-[70vh] p-2">
-                <p className="font-extrabold md:text-4xl border-b mb-4">
+                <p className="font-extrabold md:text-4xl border-b border-slate-400 shadow-sm mb-4">
                     {data.title}
                 </p>
                 <p>

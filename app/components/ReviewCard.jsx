@@ -1,6 +1,6 @@
 function ReviewCard({ review }) {
     return (
-        <div className="p-2 rounded-md border min-w-[200px]">
+        <div className="p-2 rounded-md border min-w-[200px] border-slate-400 shadow-xl">
             <div className="flex justify-between">
                 <p>{review.reviewerName}</p>
                 <p>&#10024; {review.rating}</p>
