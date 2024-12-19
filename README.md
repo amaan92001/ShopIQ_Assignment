@@ -1,5 +1,4 @@
 
-```markdown
 # E-commerce Website: Products Listing and Details Page  
 
 ![ShopIQ_Logo](https://www.shopiq.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.02cbd700.png&w=1920&q=75)  
