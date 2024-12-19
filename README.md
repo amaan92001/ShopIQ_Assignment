@@ -20,6 +20,8 @@ Develop a fully functional and mobile-optimized e-commerce platform using **Next
 - **Scroll Preservation**:  
   - Maintains scroll position when navigating back from the product details page.  
 
+---
+
 ### 📄 Product Details Page  
 - **Left Section**:  
   - Image carousel for displaying multiple product images.  
